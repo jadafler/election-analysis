@@ -16,8 +16,8 @@ with open(file_to_load) as election_data:
         # To do: read and analyze the data here
         file_reader = csv.reader(election_data)
         # Print each row in the CSV file
-        #headers = next(file_reader)
-        #print(headers)
+        #headers = next(file_reader) - For printing headers only
+        #print(headers) - For printing headers only
         for row in file_reader:
             print(row)
 # Close the file
