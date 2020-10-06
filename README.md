@@ -16,6 +16,10 @@ The Board of Election is looking for a more automated audit than what is offered
 
 ## Election-Audit Results
 
+<style type="text/css">
+<!--
+.tab { margin-left: 50px; }
+-->
 <li>369, 711 total votes were casted for the US Congressional election</li>
 <li>The breakdown of the counties participating in the US Congressional election are:</li>
 <p class="tab">1. Denver - 82.8% with 306,055 votes</p>
@@ -28,7 +32,7 @@ The Board of Election is looking for a more automated audit than what is offered
 	3. Raymon Anthony Doane - 3.1% with 11,606 votes
 <li>The winning candidate, determined by popular vote, is:</li>
 	*Diana DeGette - 73.8% with 272,892 votes</li>
-
+</style>
 <img src="Resources/election_audit_results" alt="Election Audit Results">
 
 ## Election-Audit Summary
