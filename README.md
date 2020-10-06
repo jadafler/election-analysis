@@ -4,11 +4,11 @@ Module 3
 ## Overview of Project
 
 Providing the Board of Elections with an audit of the tabulated results of the US Congressional precinct in Colorado. This analysis will provide Tom, a Board of Elections employee, with the following information (derived from the provided election data):
-1. Total votes casted
-2. The County and their specific amount of votes
-3. The largest county turnout 
-4. Each candidate, total candidate votes, and percentage of the candidates votes
-5. The winning candidate of the popular vote, candidate's winning vote count, and winning percentage
+<li>Total votes casted</li>
+<li>The County and their specific amount of votes</li>
+<li>The largest county turnout</li>
+<li>Each candidate, total candidate votes, and percentage of the candidates votes</li>
+<li>The winning candidate of the popular vote, candidate's winning vote count, and winning percentage</li>
 
 ### Purpose
 
@@ -17,19 +17,19 @@ The Board of Election is looking for a more automated audit than what is offered
 ## Election-Audit Results
 
 <li>369, 711 total votes were casted for the US Congressional election</li>
-The breakdown of the counties participating in the US Congressional election are:
-	Denver - 82.8% with 306,055 votes
-	Jefferson - 10.5% with 38,855 votes
-	Arapahoe - 6.7% with 24, 801 votes
-<li>The county with the largest voting turnout is Denver
-The breakdown of the candidate results in the US Congressional election are:
-	Diana DeGette - 73.8% with 272,892 votes
-	Charles Casper Stockham - 23% with 85,213 votes
-	Raymon Anthony Doane - 3.1% with 11,606 votes
-The winning candidate, determined by popular vote, is:
-	Diana DeGette - 73.8% with 272,892 votes</li>
+<li>The breakdown of the counties participating in the US Congressional election are:</li>
+	1. Denver - 82.8% with 306,055 votes
+	2. Jefferson - 10.5% with 38,855 votes
+	3. Arapahoe - 6.7% with 24, 801 votes
+<li>The county with the largest voting turnout is Denver</li>
+<li>The breakdown of the candidate results in the US Congressional election are:</li>
+	1. Diana DeGette - 73.8% with 272,892 votes
+	2. Charles Casper Stockham - 23% with 85,213 votes
+	3. Raymon Anthony Doane - 3.1% with 11,606 votes
+<li>The winning candidate, determined by popular vote, is:</li>
+	*Diana DeGette - 73.8% with 272,892 votes</li>
 
-![Theater Category Outcomes](/Resources/Parent_Catagory_Outcomes.png)
+<img src="Resources/election_audit_results" alt="Election Audit Results">
 
 ## Election-Audit Summary
 
