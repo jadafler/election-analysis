@@ -16,14 +16,11 @@ The Board of Election is looking for a more automated audit than what is offered
 
 ## Election-Audit Results
 
-<style type="text/css">
-<!--
-.tab { margin-left: 50px; }
--->
+Ululi {margin-left: 0; padding-left:0}
 <li>369, 711 total votes were casted for the US Congressional election</li>
 <li>The breakdown of the counties participating in the US Congressional election are:</li>
-<p class="tab">1. Denver - 82.8% with 306,055 votes</p>
-<p class="tab">2. Jefferson - 10.5% with 38,855 votes</p>
+<ul>1. Denver - 82.8% with 306,055 votes</p>
+<p class="tab">2. Jefferson - 10.5% with 38,855 votes</ul>
 <p class="tab">3. Arapahoe - 6.7% with 24, 801 votes</p>
 <li>The county with the largest voting turnout is Denver</li>
 <li>The breakdown of the candidate results in the US Congressional election are:</li>
