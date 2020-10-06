@@ -16,7 +16,6 @@ The Board of Election is looking for a more automated audit than what is offered
 
 ## Election-Audit Results
 
-Ul, li {margin-left: 0; padding-left:0}
 <li>369, 711 total votes were casted for the US Congressional election</li>
 <li>The breakdown of the counties participating in the US Congressional election are:</li>
 <ul>1. Denver - 82.8% with 306,055 votes</ul>
